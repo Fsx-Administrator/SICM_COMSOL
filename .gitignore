@@ -1,1 +1,4 @@
 *.lock
+*.java
+*.m
+*.vba
